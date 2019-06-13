@@ -1,0 +1,24 @@
+{  
+   "name":"Shopify Products",
+   "id":"contentful-ui-shopify",
+   "fieldTypes":[  
+      "Object"
+   ],
+   "srcdoc":"./index.html",
+   "parameters":{  
+      "instance":[  
+         {  
+            "id":"apiToken",
+            "name":"Shopify Read-only Storefront Access Token",
+            "type":"Symbol",
+            "default":"f598aa594435fc6ffa8e8ecd07ddbafd"
+         },
+         {  
+            "id":"apiEndpoint",
+            "name":"Shopify GraphQL endpoint",
+            "type":"Symbol",
+            "default":"https://hunter2.myshopify.com/api/graphql"
+         }
+      ]
+   }
+}
