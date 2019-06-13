@@ -11,7 +11,7 @@
             "id":"apiToken",
             "name":"Shopify Read-only Storefront Access Token",
             "type":"Symbol",
-            "default":"f598aa594435fc6ffa8e8ecd07ddbafd"
+            "default":"b724281d17859ec95e3d8fa0d22d0923"
          },
          {  
             "id":"apiEndpoint",
